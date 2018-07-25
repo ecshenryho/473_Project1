@@ -1,7 +1,7 @@
 
                             CPSC 473: Front-End Web Engineering - Summer 2018
                             Project One, due 24 July 2018
-                            Team Name: The Father Of Love
+                            Team Name: The Father Of Love.
     I.Our project:
 
         Build a site where Visitors can create their own “which character are you?” quizzes.
