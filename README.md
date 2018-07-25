@@ -63,7 +63,7 @@
         4. Project functionality
         5. Project scope
         6. Code quality
-        7. Appropriate use of available technologies
+        7. Appropriate use of available technologies.
         8. Innovation
         9. Web design
 
