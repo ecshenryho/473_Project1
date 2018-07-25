@@ -1,16 +1,29 @@
+
 .button-homepage{
-    margin-top:50px;
-    margin-bottom: 80px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    text-align: left;
 }
-
-p {padding-left: 40em;}
-
-g{padding-left: 40em;}
 
 .btn{
   margin: 15px;
 }
+
 .btnGang{
-  text-align: center;
-  margin-bottom: 50px;
+  text-align:left;
+  width: 100%;
+}
+
+.questions{
+
+
+}
+
+
+.question_2 {
+  text-align: left;
+}
+
+.questions_noSubmit{
+  padding: 200px;
 }
